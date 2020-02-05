@@ -1,1 +1,1 @@
-![Foo]('Wilosophy Website 2020.png')
+![Foo](WilosophyWebsite2020.png)
