@@ -1,2 +1,2 @@
-![Foo](bg.png)
+![Foo](Wilosophy Website 2020.png)
 
