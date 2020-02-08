@@ -73,7 +73,7 @@ body {
  * OTHER
  *********************************************/
 .reveal p {
-  margin: 20px 0;
+  margin: 10px 0;
   line-height: 1; 
   font-size: 60%;
 }
@@ -82,8 +82,8 @@ body {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 95%; }
+  max-width: 100%;
+  max-height: 100%; }
 
 .reveal strong,
 .reveal b {
